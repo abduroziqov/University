@@ -1,10 +1,10 @@
-﻿namespace ConsoleApp1
+﻿namespace ownUniwer
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("salom Qalesilar");
+            Console.WriteLine("Hello, World!");
         }
     }
 }
