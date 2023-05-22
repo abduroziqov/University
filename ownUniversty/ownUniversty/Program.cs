@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Axrorbek \n ");
+            Console.WriteLine("Axrorbek \n , ");
         }
     }
 }
